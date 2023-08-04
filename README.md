@@ -7,6 +7,6 @@ In vscode I learned those shortcuts:
 - `Ctrl + Shift + ArrowUp/ArrowDown` - duplicate the line bar line down or up from the main line bar position.
 - `Ctrl + Enter` - New line without breaking the current line
 - `Ctrl + d` - duplicate the line bar on the next instance of the word
-<br>
-Github command:
+
+git command:
 - `git commit --amend` - let you edit the last commit message.
