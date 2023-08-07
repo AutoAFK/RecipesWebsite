@@ -1,9 +1,9 @@
-.container-cubanropa {
+body {
     background-color: #ffd9de;
 }
 
-.container-cubanropa ul li,
-.container-cubanropa h1,
-.container-cubanropa h2 {
+li,
+h1,
+h2 {
     color: #400014;
 }

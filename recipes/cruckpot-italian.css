@@ -1,9 +1,10 @@
-.container-cruckpot {
+body {
     background-color: #EADDFF;
 }
 
-.container-cruckpot ul li,
-.container-cruckpot h1,
-.container-cruckpot h2 {
+li,
+h1,
+h2,
+a {
     color: #21005D;
 }

@@ -1,0 +1,48 @@
+*,
+*::after,
+*::before {
+    box-sizing: inherit;
+}
+
+html {
+    box-sizing: border-box;
+}
+
+
+body {
+    background-color: #FFFBFE;
+}
+
+h1,
+h2 {
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+}
+
+h1 {
+    text-align: center;
+}
+
+p {
+    font-size: 16px;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+}
+
+img {
+    display: block;
+    width: 250px;
+    height: auto;
+    margin: 0 auto;
+    border: 5px solid black
+}
+
+a {
+    display: block;
+    text-align: center;
+}
+
+p,
+a {
+    font-weight: bold;
+}
