@@ -21,33 +21,3 @@ img {
     width: 250px;
     height: auto;
 }
-
-.container-cruckpot {
-    background-color: #EADDFF;
-}
-
-.container-cruckpot ul li,
-.container-cruckpot h1,
-.container-cruckpot h2 {
-    color: #21005D;
-}
-
-.container-cubanropa {
-    background-color: #ffd9de;
-}
-
-.container-cubanropa ul li,
-.container-cubanropa h1,
-.container-cubanropa h2 {
-    color: #400014;
-}
-
-.container-sausage {
-    background-color: #ffdf9e;
-}
-
-.container-sausage ul li,
-.container-sausage h1,
-.container-sausage h2 {
-    color: #261a00;
-}

@@ -1,0 +1,9 @@
+.container-sausage {
+    background-color: #ffdf9e;
+}
+
+.container-sausage ul li,
+.container-sausage h1,
+.container-sausage h2 {
+    color: #261a00;
+}
